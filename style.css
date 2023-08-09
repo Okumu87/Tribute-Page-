@@ -1,5 +1,6 @@
-* {
+* html body {
   box-sizing: border-box;
+
   margin: 0;
   padding: 0;
 }
@@ -19,4 +20,12 @@ header img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer {
+  position: sticky;
+  background-color: #b3e6ff;
+  width: 960px;
+  padding: 30px;
+  text-align: center;
 }

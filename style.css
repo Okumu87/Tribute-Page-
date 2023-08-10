@@ -22,10 +22,19 @@ header img {
   margin-right: auto;
 }
 
+nav a {
+  display: block;
+  font-size: 1.5rem;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+}
+
 footer {
   position: sticky;
   background-color: #b3e6ff;
   width: 960px;
   padding: 30px;
   text-align: center;
+  overflow: hidden;
 }
